@@ -12,6 +12,7 @@ color:#1460aa;
 }
 h3
 {
+    
 color:#123456;
 }
 p
@@ -24,7 +25,7 @@ footer
 }
 .headerClass
 {
-    color:pink;
+    color:rgb(124, 115, 116);
 }
 #mainHeader{
     color: brown;
