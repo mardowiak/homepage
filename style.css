@@ -2,24 +2,7 @@ body{
     background-color:rgb(37,37,37);
     color:#fff;
 }
-h1
-{
-text-align: center;
-color:#4a9c1a;
-}
-h2
-{
-color:#1460aa;
-}
-h3
-{
-    
-color:#123456;
-}
-p
-{
-   color:#fd00e8 ;
-}
+
 footer
 {
     color: black;
@@ -30,6 +13,7 @@ footer
 }
 #mainHeader{
     color: brown;
+    text-align: center;
 }
 .nav
 {
