@@ -35,13 +35,27 @@ footer
 {
 color: white;
 background-color:#242424;
-height:30px;
+min-height:30px;
+padding:0px;
 }
 .nav-bar{
     display:inline-block;
     min-width:125px;
-    min-height: 30px   
+    min-height: 30px;  
+    color: green;
+    background-color: lightgray;
+    padding: 10px 20px;
+    border: 10px double #213769;
+    border-radius:15px;
+    margin:auto;
 }
+/*
+#logo
+{
+    color: #ec0808;
+    background-color: #e1f1f1;
+}
+*/
 
 
 
