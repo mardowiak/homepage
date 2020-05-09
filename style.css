@@ -1,5 +1,5 @@
 body{
-    background-color:#000;
+    background-color:rgb(37,37,37);
     color:#fff;
 }
 h1
@@ -31,11 +31,16 @@ footer
 #mainHeader{
     color: brown;
 }
+.nav
+{
+color: white;
+background-color:#242424;
+height:30px;
+}
 .nav-bar{
     display:inline-block;
     min-width:125px;
-    min-height: 25px
-    
+    min-height: 30px   
 }
 
 
