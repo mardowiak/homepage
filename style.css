@@ -1,5 +1,6 @@
 body{
     background-color:#000;
+    color:#fff;
 }
 h1
 {
@@ -29,6 +30,9 @@ footer
 }
 #mainHeader{
     color: brown;
+}
+.nav-bar{
+    display:inline;
 }
 
 
