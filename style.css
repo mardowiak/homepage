@@ -32,7 +32,10 @@ footer
     color: brown;
 }
 .nav-bar{
-    display:inline;
+    display:inline-block;
+    min-width:125px;
+    min-height: 25px
+    
 }
 
 
