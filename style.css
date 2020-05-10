@@ -2,15 +2,6 @@ body{
     background-color:rgb(37,37,37);
     color:#fff;
 }
-.main__header
-{
-    color:rgb(124, 115, 116);
-}
-/*
-#mainHeader{
-    color: brown;
-    text-align: center;
-} */
 .navigationBar
 {
 color: white;
@@ -29,13 +20,6 @@ padding:0px;
     border-radius:15px;
     margin:auto;
 }
-/*
-#logo
-{
-    color: #ec0808;
-    background-color: #e1f1f1;
-}
-*/
 .main
 {
 margin-left: auto;
@@ -45,6 +29,28 @@ width: 1000px;
 height: 1000px;
 overflow: hidden;
 }
+.main__header
+{
+    color:rgb(124, 115, 116);
+}
+
+#mainHeader{
+    color: brown;
+    text-align: center;
+} 
+.main-article{
+    background-color: rgb(87, 87, 206);
+    border-radius: 10px;
+}
+
+/*
+#logo
+{
+    color: #ec0808;
+    background-color: #e1f1f1;
+}
+*/
+
 footer{
     background-color: green;
     color: black;
