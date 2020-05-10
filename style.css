@@ -39,8 +39,19 @@ overflow: hidden;
     text-align: center;
 } 
 .main-article{
-    background-color: rgb(87, 87, 206);
+    background-color: rgba(87, 87, 206, 0.753);
     border-radius: 10px;
+}
+.main-article__header
+{
+color:rgba(197, 194, 32);
+text-align: center;
+}
+.main-article__paragraph
+{
+color:rgb(255, 255, 255);
+text-align: left;
+padding-left:10px;
 }
 
 /*
