@@ -15,14 +15,14 @@ footer
     color: brown;
     text-align: center;
 }
-.nav
+.navigationBar
 {
 color: white;
 background-color:#242424;
 min-height:30px;
 padding:0px;
 }
-.nav-bar{
+.navigationBar__button{
     display:inline-block;
     min-width:125px;
     min-height: 30px;  
