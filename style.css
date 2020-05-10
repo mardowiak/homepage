@@ -3,10 +3,6 @@ body{
     color:#fff;
 }
 
-footer
-{
-    color: black;
-}
 .headerClass
 {
     color:rgb(124, 115, 116);
@@ -51,6 +47,7 @@ overflow: hidden;
 }
 footer{
     background-color: green;
+    color: black;
 }
 
 
