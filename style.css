@@ -65,12 +65,10 @@ padding-left:10px;
     overflow:hidden;
     margin:auto;
 }
-
-
-
 footer{
     background-color: green;
-    color: black;
+    color: #c6cccc
+    display:inline-block;
 }
 
 
