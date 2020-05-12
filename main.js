@@ -1,4 +1,7 @@
 const name= 'Marcin';
-const age= 25;
-console.log(`Hej, jestem ${name} i mam ${age} lat`)
-console.log('Auuuuuuuuuuuuu!')
+const surname= 'Wdowiak';
+let age= 25;
+console.log(`Hej, nazywam się ${name} ${surname} i mój wiek to ${age} lat`);
+console.log('Auuuuuuuu');
+const variable1= document.querySelector('.nauka-JS');
+variable1.innerHTML='Halo dzień dobry, auuuuuuuuuu!'
